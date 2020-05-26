@@ -4,9 +4,8 @@
     <h1> Hello Thien Tu</h1>
     <p> Solo csgo ???</p>
     <ol>
-        <li>flea treatment</li>
-        <li>thunder</li>
-        <li>other cats</li>
+        <li>Yes</li>
+        <li>No</li>
   </ol>
 </body>
 </html>
