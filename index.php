@@ -1,8 +1,8 @@
 <html>
     
     
-    <h1> Hello Thien Tu</h1>
-    <p> Solo csgo ???</p>
+    <h1> Hello Be Vy</h1>
+    <p> Toi nay di choi khong ???</p>
     <ol>
         <li>Yes</li>
         <li>No</li>
